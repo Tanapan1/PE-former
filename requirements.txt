@@ -29,7 +29,6 @@ Pillow==8.4.0
 protobuf==3.19.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycocotools==2.0.3
 pyDeprecate==0.3.0
 pyparsing==3.0.6
 python-dateutil==2.8.2
@@ -46,13 +45,10 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
 timm==0.4.12
 tomli==1.2.2
-torch==1.10.0+cu113
-torchaudio==0.10.0+cu113
-torchmetrics==0.6.0
-torchvision==0.11.1+cu113
 tqdm==4.62.3
 typing-extensions==4.0.0
 urllib3==1.26.7
 Werkzeug==2.0.2
 yarl==1.7.2
 zipp==3.6.0
+

@@ -1,3 +1,5 @@
 pyenv
 **/__pycache__/*
 lightning_logs
+/datasets/coco_2017
+/datasets/coco_2017.zip

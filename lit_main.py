@@ -95,7 +95,7 @@ def get_args_parser():
 
     # dataset parameters
     parser.add_argument('--dataset_file', default='coco')
-    parser.add_argument('--coco_path', default="/home/padeler/work/datasets/coco_2017", type=str)
+    parser.add_argument('--coco_path', default="./datasets/coco_2017", type=str)
 
     parser.add_argument('--seed', default=42, type=int)
 

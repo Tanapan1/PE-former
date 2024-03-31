@@ -13,7 +13,7 @@ benchmark: false
 check_val_every_n_epoch: 1
 checkpoint_callback: true
 clip_max_norm: 0.1
-coco_path: /home/padeler/work/datasets/coco_2017
+coco_path: ../datasets/coco_2017
 dataset_file: coco
 debug: false
 dec_arch: detr
